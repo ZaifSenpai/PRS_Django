@@ -18,6 +18,7 @@ from django.urls import path
 from django.conf.urls import url, include
 from api.resources import SmsResource
 from api.resources import RecommendationResource
+from api import views
 from django.views.generic import RedirectView
 
 sms_resource = SmsResource()
@@ -25,8 +26,8 @@ recommendation_resource = RecommendationResource()
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', views.home, name="home"),
     url(r'^api/', include(sms_resource.urls)),
     url(r'^api/', include(recommendation_resource.urls)),
-    url(r'^favicon\.ico$',RedirectView.as_view(url='/static/imag/favicon.ico')),
-
+    url(r'^favicon\.ico$', RedirectView.as_view(url='/static/imag/favicon.ico')),
 ]

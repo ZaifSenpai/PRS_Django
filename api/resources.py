@@ -3,12 +3,15 @@ from api.models import Recommendation
 from tastypie.resources import ModelResource
 from tastypie.authorization import Authorization
 
+
 class SmsResource(ModelResource):
     class Meta:
         limit = 0
         queryset = Sms.objects.all()
         resource_name = 'sms'
         authorization = Authorization()
+        allowed_methods = ['get', 'post']
+
 
 class RecommendationResource(ModelResource):
     class Meta:
@@ -16,3 +19,4 @@ class RecommendationResource(ModelResource):
         queryset = Recommendation.objects.all()
         resource_name = 'recommendation'
         authorization = Authorization()
+        allowed_methods = ['get', 'post']

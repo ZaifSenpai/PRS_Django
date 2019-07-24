@@ -12,3 +12,4 @@ class Recommendation(models.Model):
     Name = models.CharField(max_length=20)
     Image = models.URLField()
     Url = models.URLField()
+    Price = models.FloatField(default=0.0)
