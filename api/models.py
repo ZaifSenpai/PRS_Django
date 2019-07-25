@@ -28,3 +28,8 @@ class UserInterest(models.Model):
     Title = models.CharField(max_length=20)
     IsSearched = models.BooleanField(default=False)
     RecoId = models.IntegerField(blank=True, null=True)
+
+class Topics(models.Model):
+    TopicId = models.IntegerField(primary_key=True)
+    Title = models.CharField(max_length=20)
+    ProcessedDatetime = models.IntegerField()

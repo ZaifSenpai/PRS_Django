@@ -37,3 +37,12 @@ class UserInterestResource(ModelResource):
         resource_name = 'user_interest'
         authorization = Authorization()
         allowed_methods = ['get', 'post']
+
+
+class TopicsResource(ModelResource):
+    class Meta:
+        limit = 0
+        queryset = Topics.objects.all()
+        resource_name = 'topics'
+        authorization = Authorization()
+        allowed_methods = ['get']

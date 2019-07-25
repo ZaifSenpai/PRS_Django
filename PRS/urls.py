@@ -18,16 +18,25 @@ from django.urls import path
 from django.conf.urls import url, include
 from api.resources import SmsResource
 from api.resources import RecommendationResource
+from api.resources import UserRecommendationResource
+from api.resources import UserInterestResource
+from api.resources import TopicsResource
 from api import views
 from django.views.generic import RedirectView
 
 sms_resource = SmsResource()
 recommendation_resource = RecommendationResource()
+user_recommendation_resource = UserRecommendationResource()
+user_interest_resource = UserInterestResource()
+topics_resource = TopicsResource()
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.home, name="home"),
     url(r'^api/', include(sms_resource.urls)),
     url(r'^api/', include(recommendation_resource.urls)),
+    url(r'^api/', include(user_recommendation_resource.urls)),
+    url(r'^api/', include(user_interest_resource.urls)),
+    url(r'^api/', include(topics_resource.urls)),
     url(r'^favicon\.ico$', RedirectView.as_view(url='/static/imag/favicon.ico')),
 ]
