@@ -116,3 +116,14 @@ I have played the trumpet since the end of third grade and have become fairly ac
 
 When I have time to ride my bicycle, I do. At one point, I used to actively train and race, when I came out of obesity and worked more diligently on my physique than I am now.
 """
+
+# https://axesso-axesso-amazon-data-service-v1.p.rapidapi.com/amz/amazon-search-by-keyword?sortBy=relevanceblender&domainCode=com&page=1&keyword=game+team
+## URL Parameters:
+# sortBy			relevanceblender
+# domainCode		com
+# page				1
+# keyword 			game+team
+## Headers:
+# X-RapidAPI-Host	axesso-axesso-amazon-data-service-v1.p.rapidapi.com
+# X-RapidAPI-Key	c10e853eb8msh471d1730b3b5c9ep19ed71jsnb9ba58f02d4b
+# 
