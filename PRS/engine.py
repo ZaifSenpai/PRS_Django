@@ -1,13 +1,16 @@
+import re
+import time
 import gensim
+import urllib.request
+
+from datetime import datetime
 from api.models import Sms, Recommendation, Topics
+
 from textblob import TextBlob
 from textblob.sentiments import NaiveBayesAnalyzer
-from datetime import datetime
 from sklearn.datasets import fetch_20newsgroups
 from nltk.stem import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
-import re
-import time
 
 
 def lemmatize_stemming(text):
@@ -23,6 +26,17 @@ def tokenize_lemmatize(text):
     return result
 
 
+def start_service():
+    while True:
+        print('Starting')
+        # engine = RecommenderEngine()
+        # engine.process_next_chunk()
+        # engine.get_recommendations()
+        # engine.clear_text_message()
+        print('Done')
+        time.sleep(3)
+
+
 class RecommenderEngine():
 
     def __init__(self):
@@ -30,14 +44,33 @@ class RecommenderEngine():
 
     def process_next_chunk(self):
         userId, smsids, text = self.retrieve_para()
-        if not text:  # text is None of empty
+        if not text:  # text is None or empty
             return
-        try:
-            sentiment = self.sentiment_analysis(text)
-            topics = self.extract_topics(text, sentiment)
-            self.update_db(userId, topics, smsids)
-        except Exception as e:
-            print(e)
+        # try:
+        sentiment = self.sentiment_analysis(text)
+        topics = self.extract_topics(text, sentiment)
+        self.update_db(userId, topics, smsids)
+        # except Exception as e:
+        #     print(e)
+
+    def get_recommendations(self):
+        topic = Topics.objects.first()
+        if not topic:
+            return
+        dt = topic.ProcessedDatetime
+
+        topics_set = Topics.objects.filter(ProcessedDatetime=dt)
+
+        topics = [x.Title for x in topics_set]
+
+        @TODO
+
+        [x.delete() for x in topics_set]  # Remove records
+
+    def clear_text_message(self):
+        # Remove those text messages which are processed
+        Sms = Sms.objects.filter(IsProcessed=True)
+        [x.delete() for x in Sms]
 
     def retrieve_para(self):
         sms = Sms.objects.filter(IsProcessed=False).first()
@@ -48,8 +81,8 @@ class RecommenderEngine():
         receiver = sms.Address
         sender = sms.UserId
 
-        # get first 100 sms of same sender and receiver
-        sms_set = Sms.objects.filter(UserId=sender, Address=receiver)[:100]
+        # get first 30 sms of same sender and receiver
+        sms_set = Sms.objects.filter(UserId=sender, Address=receiver)[:30]
 
         sms_ids = []
         text = ''
@@ -85,7 +118,7 @@ class RecommenderEngine():
                                                    id2word=dictionary,
                                                    passes=10,
                                                    workers=2)
-            if (lda_model.show_topics()):
+            if lda_model.show_topics() and lda_model.show_topics()[0] and lda_model.show_topics()[0][1]:
                 return re.findall('"(.*?)"', lda_model.show_topics()[0][1])
 
     def update_db(self, userId, topics, smsids):
@@ -118,12 +151,12 @@ When I have time to ride my bicycle, I do. At one point, I used to actively trai
 """
 
 # https://axesso-axesso-amazon-data-service-v1.p.rapidapi.com/amz/amazon-search-by-keyword?sortBy=relevanceblender&domainCode=com&page=1&keyword=game+team
-## URL Parameters:
+# URL Parameters:
 # sortBy			relevanceblender
 # domainCode		com
 # page				1
 # keyword 			game+team
-## Headers:
+# Headers:
 # X-RapidAPI-Host	axesso-axesso-amazon-data-service-v1.p.rapidapi.com
 # X-RapidAPI-Key	c10e853eb8msh471d1730b3b5c9ep19ed71jsnb9ba58f02d4b
-# 
+#
