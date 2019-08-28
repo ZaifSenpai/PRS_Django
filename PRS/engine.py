@@ -1,7 +1,7 @@
 import re
 import time
 import gensim
-import urllib.request
+import requests
 
 from datetime import datetime
 from api.models import Sms, Recommendation, Topics
@@ -46,12 +46,12 @@ class RecommenderEngine():
         userId, smsids, text = self.retrieve_para()
         if not text:  # text is None or empty
             return
-        # try:
-        sentiment = self.sentiment_analysis(text)
-        topics = self.extract_topics(text, sentiment)
-        self.update_db(userId, topics, smsids)
-        # except Exception as e:
-        #     print(e)
+        try:
+            sentiment = self.sentiment_analysis(text)
+            topics = self.extract_topics(text, sentiment)
+            self.update_db(userId, topics, smsids)
+        except Exception as e:
+            print('Exception details:', e)
 
     def get_recommendations(self):
         topic = Topics.objects.first()
@@ -63,7 +63,10 @@ class RecommenderEngine():
 
         topics = [x.Title for x in topics_set]
 
-        @TODO
+        response = requests.get("https://axesso-axesso-amazon-data-service-v1.p.rapidapi.com/amz/amazon-search-by-keyword?domainCode=com&page=1&keyword={0}".format(
+            '+'.join(topics)), headers={"X-RapidAPI-Host": "axesso-axesso-amazon-data-service-v1.p.rapidapi.com", "X-RapidAPI-Key": "c10e853eb8msh471d1730b3b5c9ep19ed71jsnb9ba58f02d4b"})
+
+        # @TODO
 
         [x.delete() for x in topics_set]  # Remove records
 

@@ -1,0 +1,643 @@
+{
+    "domainCode": "com",
+    "foundProductDetails": [
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "154509957X",
+            "countReview": 173,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Renaada Williams (Author) › Visit Amazon's Renaada Williams Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Renaada Williams (Author)",
+            "pantry": false,
+            "price": 0,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": null,
+            "productDetails": [
+                {
+                    "name": "Paperback:",
+                    "value": "128 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "CreateSpace Independent Publishing Platform; 1 edition (April 9, 2017)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "154509957X"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-1545099575"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5.1 x 0.3 x 7.8 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "2.4 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.7 out of 5 stars 173 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#30,073 in Books (See Top 100 in Books) #811 in Literature #31 in African American Poetry #64 in Love Poems"
+                }
+            ],
+            "productRating": "4.7 out of 5 stars",
+            "productTitle": "becoming.",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "1981101780",
+            "countReview": 169,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Edgar Holmes (Author) › Visit Amazon's Edgar Holmes Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Edgar Holmes (Author)",
+            "pantry": false,
+            "price": 13.85,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": null,
+            "productDetails": [
+                {
+                    "name": "Paperback:",
+                    "value": "112 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "CreateSpace Independent Publishing Platform (November 23, 2017)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "1981101780"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-1981101788"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5 x 0.3 x 8 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "3.2 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.4 out of 5 stars 169 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#18,081 in Books (See Top 100 in Books) #86 in American Poetry (Books) #41 in Love Poems"
+                }
+            ],
+            "productRating": "4.4 out of 5 stars",
+            "productTitle": "Her Favorite Color Was Yellow",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "057846991X",
+            "countReview": 34,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by C Churchill (Author) › Visit Amazon's C Churchill Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central C Churchill (Author)",
+            "pantry": false,
+            "price": 0,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": "This collection of poetry is themed in the night. All things we may experience that keep us from sleeping. Insomnia, longing and depression can cause many to feel alone in their darkness. This journey of night themed poems is a bit on the darker side but it is meant to inspire the reader. No one should ever feel alone in their suffering.  ",
+            "productDetails": [
+                {
+                    "name": "Paperback:",
+                    "value": "123 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "Cheryl Churchill (March 7, 2019)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "057846991X"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-0578469911"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5 x 0.3 x 8 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "5 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "5.0 out of 5 stars 34 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#14,492 in Books (See Top 100 in Books) #4 in Haiku & Japanese Poetry #3 in Poetry About Places (Books) #5 in Native American Poetry (Books)"
+                }
+            ],
+            "productRating": "5.0 out of 5 stars",
+            "productTitle": "Petals of the Moon: A Poetry Collection",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "1449489753",
+            "countReview": 343,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Courtney Peppernell (Author) › Visit Amazon's Courtney Peppernell Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Courtney Peppernell (Author)",
+            "pantry": false,
+            "price": 8.49,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": "Courtney Peppernell is an LGBT author from Sydney, Australia. In October 2016 she released the bestselling poetry collection Pillow Thoughts. Courtney has been writing her whole life and currently writes young adult novels and poetry collections. In February 2017 she released her second novel, Keeping Long Island. In August 2017 she published Pillow Thoughts and The Road Between. In August 2018, Courtney published Pillow Thoughts II: Healing The Heart. Courtney is working on a two new poetry collections and two new novels. When Courtney isn't writing she enjoys exploring, listening to music, drinking coffee, and hanging out with her two dogs, Hero & Dakota, and her cat, Bailey.",
+            "productDetails": [
+                {
+                    "name": "Paperback:",
+                    "value": "272 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "Andrews McMeel Publishing (August 29, 2017)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "1449489753"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-1449489755"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5 x 0.7 x 8 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "9.6 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.4 out of 5 stars 343 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#1,486 in Books (See Top 100 in Books) #1 in Australia & Oceania Poetry #1 in Gay & Lesbian Poetry #4 in Love Poems"
+                }
+            ],
+            "productRating": "4.4 out of 5 stars",
+            "productTitle": "Pillow Thoughts",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "1449486797",
+            "countReview": 1236,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Rupi Kaur (Author) › Visit Amazon's Rupi Kaur Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Rupi Kaur (Author)",
+            "pantry": false,
+            "price": 10.2,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": "An Amazon Best Book of October 2017: Kaur deftly sidesteps and then punts the stereotypical sophomore slump of bestselling authors, offering a subtle yet powerful volume of poetry to her readers who have clamored for more since the debut of Milk & Honey. Split into five movements—wilting, falling, rooting, rising, blooming—Kaur’s poems glide up from the depths of heartbreak and hurt to embrace the strength and joy that can flower on the other side of hardship. Kaur workshops many of her poems through live readings, and the dedication to her craft vibrates through every phrase. Those who pressed Milk & Honey into the hands of their friends will exult in The Sun and Her Flowers, and Kaur’s expanded wisdom and scope should reel in new readers who will find much that resonates. —Adrian Liang, The Amazon Book Review \"Rupi Kaur is Kicking Down the Doors of Publishing” (The New York Times) \"At age 24, Rupi Kaur has been called the voice of her generation.\" (USA Today) “Rupi Kaur sits atop a new wave in poetry.” (The Wall Street Journal) “Perhaps the best-known poet in the English-speaking world at this point” (Bustle) \"Rupi Kaur reinvents poetry ... (she) is undeniably equipped with the poet’s ability to articulate emotions that readers struggle to make sense of.” (The Economist) “Outselling Homer Ten to One” (New York Magazine) \"The Poet Who Touched a Nerve\" (The Times (London)) “there’s no denying that Rupi Kaur is currently one of the most — if not the most — popular poets in America …” (Boston Globe) \"Rupi Kaur is a rock star.\" (The Kansas City Star)",
+            "productDetails": [
+                {
+                    "name": "Paperback:",
+                    "value": "256 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "Andrews McMeel Publishing; First Edition edition (October 3, 2017)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "1449486797"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-1449486792"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5 x 0.7 x 7.8 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "12 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.6 out of 5 stars 1,236 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#839 in Books (See Top 100 in Books) #1 in Death, Grief & Loss Poetry (Books) #1 in Family Poetry (Books) #1 in Canadian Poetry"
+                }
+            ],
+            "productRating": "4.6 out of 5 stars",
+            "productTitle": "The Sun and Her Flowers",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "1979772304",
+            "countReview": 667,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by r.h. Sin (Author) › Visit Amazon's r.h. Sin Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central r.h. Sin (Author)",
+            "pantry": false,
+            "price": 6,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": null,
+            "productDetails": [
+                {
+                    "name": "Paperback:",
+                    "value": "72 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "CreateSpace Independent Publishing Platform (November 19, 2017)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "1979772304"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-1979772303"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5 x 0.2 x 8 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "3.2 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.5 out of 5 stars 667 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#4,771 in Books (See Top 100 in Books) #4 in African American Poetry #37 in Poetry Themes & Styles (Books)"
+                }
+            ],
+            "productRating": "4.5 out of 5 stars",
+            "productTitle": "I hope this reaches her in time",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "161243763X",
+            "countReview": 209,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Jhené Aiko Efuru Chilombo (Author) › Visit Amazon's Jhen&eacute; Aiko Efuru Chilombo Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Jhené Aiko Efuru Chilombo (Author)",
+            "pantry": false,
+            "price": 8.66,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": "Jhené Aiko Efuru Chilombo was born on March 16, 1988 in Los Angeles, California. Jhené began writing poetry at 6 years old. At 13, she signed to a major record label and began her career as a recording artist. Today, she is a mother of one, a three-time Grammy nominated singer/songwriter and a poet. 2Fish is Jhené’s first published book.",
+            "productDetails": [
+                {
+                    "name": "Hardcover:",
+                    "value": "144 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "Ulysses Press; Later Printing edition (December 19, 2017)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "161243763X"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-1612437637"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "4.5 x 0.5 x 6.5 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "6.4 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.7 out of 5 stars 209 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#6,651 in Books (See Top 100 in Books) #7 in Poetry by Women #2 in Asian American Poetry #14 in Love Poems"
+                }
+            ],
+            "productRating": "4.7 out of 5 stars",
+            "productTitle": "2Fish: (a poetry book)",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "0692097724",
+            "countReview": 45,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Ellen Allbrey Everett (Author)",
+            "pantry": false,
+            "price": 0,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": null,
+            "productDetails": [
+                {
+                    "name": "Paperback:",
+                    "value": "202 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "Ellen Everett; 1 edition (April 5, 2018)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "0692097724"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-0692097724"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5.1 x 0.5 x 7.8 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "8.2 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.9 out of 5 stars 45 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#27,891 in Books (See Top 100 in Books) #21 in Death, Grief & Loss Poetry (Books) #14 in Nature Poetry (Books) #33 in Inspirational & Religious Poetry (Books)"
+                }
+            ],
+            "productRating": "4.9 out of 5 stars",
+            "productTitle": "I Saw You As A Flower: A Poetry Collection",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "0071419306",
+            "countReview": 146,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Roy J. Cook (Compiler)",
+            "pantry": false,
+            "price": 0,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": "An inspirational collection of masterpieces from the world's greatest poets Poetry has the power to give us strength, inspiration, and hope, helping us to make meaning from our hectic lives and giving us the opportunity to appreciate new ways of thinking about universal themes and observations. Whether you are a newcomer to poetry or a lifelong lover of verse, in this indispensable compilation you will find the greatest poems of all time, powerful words that have delighted and inspired generations of readers--words that are sure to inspire you today. In this portable volume, William Wordsworth wanders \"lonely as a cloud\" to gaze blissfully at a crowd of daffodils, Percy Bysshe Shelley pronounces his profound \"Ode to the West Wind,\" Edgar Allan Poe quotes the raven, \"Nevermore,\" and William Shakespeare is consumed by love in \"That Time of Year.\" Replete with timeless masterpieces, this keepsake includes such American classics as \"Paul Revere's Ride\" and \"Hiawatha's Childhood\" by Henry Wadsworth Longfellow; \"Concord Hymn\" by Ralph Waldo Emerson, and \"God Save the Flag\" by Oliver Wendell Holmes. For nature lovers (and city dwellers longing for an escape), there is Shelley's blithe skylark, Robert Frost's mending wall, and Joyce Kilmer's unforgettably lovely trees. In addition to the poems, the collection also contains a special selection of popular prose, including the Gettysburg Address, the Ten Commandments, the Declaration of Independence, and the full text of Patrick Henry's famous \"give me liberty or give me death\" speech. The pleasures of poetry are many, and the masterpieces in this volume are sure to enrich and encourage. So take a break from the rush and noise of life, find a quiet spot, and lose yourself between these pages. Poetry has long been called upon to enrich and inspire our lives, especially in moments of stress. If you are one of those souls in these noise-tired times who longs for a little peace and quiet, a stolen moment of contemplation, this volume is sure to offer you respite. Whether you are on the subway, in the grocery line, or on the elevator, this portable collection is your perfect companion. Whether you're an avid consumer or a newcomer to poetry, you're sure to discover verses to cherish among these unforgettable works that continue to inspire the lives of so many. The Authors: Alexander Anderson • Elizabeth Barret Browning • Robert Browning • Robert Burns • John Burroughs • Lord Byron • Edmund Vance Cooke • Emily Dickinson • George Eliot • Ralph Waldo Emerson • Eugene Field • Robert Frost • Thomas Gray • Patrick Henry • Oliver Wendell Holmes • John James Ingalls • King John • John Keats • Rudyard Kipling • Abraham Lincoln • Henry Wadsworth Longfellow • Edna St. Vincent Millay • John Milton • Alfred Noyes • Edgar Allan Poe • Carl Sandburg • Sir Walter Scott • William Shakespeare • Percy Bysshe Shelley • Frank L. Stanton • Robert Louis Stevenson • Alfred Tennyson • Walt Whitman • John Greenleaf Whittier • William Wordsworth  McGraw-Hill authors represent the leading experts in their fields and are dedicated to improving the lives, careers, and interests of readers worldwide",
+            "productDetails": [
+                {
+                    "name": "Hardcover:",
+                    "value": "185 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "McGraw-Hill Education (May 30, 2003)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "9780071419307"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-0071419307"
+                },
+                {
+                    "name": "ASIN:",
+                    "value": "0071419306"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "4.9 x 0.7 x 8.4 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "9.6 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.7 out of 5 stars 146 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#26,242 in Books (See Top 100 in Books) #702 in Literature #29 in Poetry Anthologies (Books)"
+                }
+            ],
+            "productRating": "4.7 out of 5 stars",
+            "productTitle": "101 Famous Poems",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "144947425X",
+            "countReview": 6603,
+            "features": [],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": null,
+            "manufacturer": "by Rupi Kaur (Author) › Visit Amazon's Rupi Kaur Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Rupi Kaur (Author)",
+            "pantry": false,
+            "price": 6.25,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": true,
+            "productDescription": "\"At age 24, Rupi Kaur has been called the voice of her generation.\" (USA Today) “Rupi Kaur has vision beyond her years … Her work is simply but powerfully expressed, and viscerally captures both universal human experience and the particular struggles of a young woman today.\" (Huffington Post) Rupi’s poetry is simple, relatable, gorgeous, and grounded in the everyday experiences of young women. (Rachel Grate, Hello Giggles) \"A must-have poetry collection about healing and hope.\" (Bustle) Rupi Kaur's first book, Milk and Honey is the poetry collection every woman needs on her nightstand or coffee table. Accompanied by her own sketches, the beautifully honest poems read like the everyday, collective experiences of today's modern woman. (Erin Spencer, Huffington Post) “Discussing themes of love, loss, and healing, Milk and Honey finds a way to connect to every reader. “ (Business Insider) \"Milk and Honey brings any tormented reader to an enlightened state of self-reflection that may have taken years to accomplish alone.” (Elite Daily) The honest words of Rupi Kaur leave you continuously wanting more as she writes with eloquence and poise. Her work will send you to past thoughts and realities you might not have known you had. (Sienna Brown, WildSpice Magazine) Rupi Kaur’s writing echoes of artistry and wisdom which is seen in the work of those that have been writing for years. (Samira Sawlani, Media Diversified) Rupi Kaur is a poet, artist, and performer. Her works have taken the literary world by storm. Her second book, the sun and her flowers—an instant global bestseller, is an artistic sibling to her debut, milk and honey—one of America's bestselling books of 2017. “i am the product of all the ancestors getting together and deciding these stories need to be told.” Rupi sees her work as an articulation of this vision. She’s an eternal artist. At the age of five, her mother handed her a paintbrush and said, “draw your heart out.” At seventeen, she happened upon a local open mic night where she performed her first spoken word poem. She fell in love with performance poetry that night. Rupi continued performing across Canada, while building a community of readers and poetry enthusiasts. While studying at the University of Waterloo, Rupi wrote, illustrated, and self-published her first collection, milk and honey. In the years since, milk and honey has become an international phenomenon. It’s sold over 3 million copies, been translated into more than 35 languages, and landed as a #1 New York Times bestseller—where it has spent more than 100 consecutive weeks. “i am the first woman in my lineage with freedom of choice. to craft her future whichever way i choose. say what is on my mind when i want to. without the whip of the lash. there are hundreds of firsts i am thankful for.” Rupi explores a variety of themes in her work ranging from love, loss, trauma, healing, femininity, migration, and revolution. She’s a storyteller and chronicler—a repository of community and history. There’s a simplicity and nuance to her work that has found a home in the hearts of millions. This magic is captured in her stage performances, which are magnetic musical interactions of poetry, art, and theater. Rupi's long-awaited second collection, the sun and her flowers, was published in 2017 and debuted as a #1 global bestseller. Within the first three months it sold a million copies and was embraced by readers worldwide. She’s a Forbes 30 under 30, an editor of the 2016 Mays Literary Anthology of New Writing from the Universities of Oxford and Cambridge, and one of BBC’s 100 Women. Rupi hopes to continue her artistic exploration through art and poetry—searching for ways to understand and articulate. i stand on the sacrifices of a million women before me thinking what can i do to make this mountain taller so the women after me can see farther - legacy",
+            "productDetails": [
+                {
+                    "name": "Series:",
+                    "value": "Milk and Honey by Rupi Kaur"
+                },
+                {
+                    "name": "Paperback:",
+                    "value": "208 pages"
+                },
+                {
+                    "name": "Publisher:",
+                    "value": "Andrews McMeel Publishing; Reprint edition (October 6, 2015)"
+                },
+                {
+                    "name": "Language:",
+                    "value": "English"
+                },
+                {
+                    "name": "ISBN-10:",
+                    "value": "9781449474256"
+                },
+                {
+                    "name": "ISBN-13:",
+                    "value": "978-1449474256"
+                },
+                {
+                    "name": "ASIN:",
+                    "value": "144947425X"
+                },
+                {
+                    "name": "Product Dimensions:",
+                    "value": "5 x 0.5 x 7.7 inches"
+                },
+                {
+                    "name": "Shipping Weight:",
+                    "value": "7.2 ounces (View shipping rates and policies)"
+                },
+                {
+                    "name": "Average Customer Review:",
+                    "value": "4.6 out of 5 stars 6,603 customer reviews"
+                },
+                {
+                    "name": "Amazon Best Sellers Rank:",
+                    "value": "#328 in Books (See Top 100 in Books) #2 in American Poetry (Books) #1 in Love Poems #1 in Inspirational & Religious Poetry (Books)"
+                }
+            ],
+            "productRating": "4.6 out of 5 stars",
+            "productTitle": "Milk and Honey",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "Amazon",
+            "warehouseAvailability": "In Stock."
+        }
+    ],
+    "keyword": "poetry book",
+    "numberOfProducts": 10,
+    "responseMessage": "Product successfully found!",
+    "responseStatus": "PRODUCT_FOUND_RESPONSE",
+    "resultCount": 563,
+    "sortStrategy": "relevanceblender"
+}
