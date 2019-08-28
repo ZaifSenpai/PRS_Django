@@ -66,9 +66,11 @@ class RecommenderEngine():
         response = requests.get("https://axesso-axesso-amazon-data-service-v1.p.rapidapi.com/amz/amazon-search-by-keyword?domainCode=com&page=1&keyword={0}".format(
             '+'.join(topics)), headers={"X-RapidAPI-Host": "axesso-axesso-amazon-data-service-v1.p.rapidapi.com", "X-RapidAPI-Key": "c10e853eb8msh471d1730b3b5c9ep19ed71jsnb9ba58f02d4b"})
 
-        # @TODO
+        if response.status_code == 200:
+            json_response = response.json()
+            # @TODO
 
-        [x.delete() for x in topics_set]  # Remove records
+            [x.delete() for x in topics_set]  # Remove records
 
     def clear_text_message(self):
         # Remove those text messages which are processed
