@@ -4,6 +4,7 @@ import nltk
 import gensim
 import requests
 import traceback
+import sys
 
 from datetime import datetime
 from api.models import Sms, Recommendation, Topics
@@ -14,6 +15,9 @@ from sklearn.datasets import fetch_20newsgroups
 from nltk.stem import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
+
+print('Service Started')
+sys.stdout.flush()
 
 
 def lemmatize_stemming(text):
@@ -38,7 +42,8 @@ def find_word_in_list(l, w):
 
 def start_service():
     while True:
-        print('Starting')
+        print('Looking for more messages...')
+        sys.stdout.flush()
         engine = RecommenderEngine()
         engine.process_next_chunk()
         engine.get_recommendations()
@@ -89,11 +94,21 @@ class RecommenderEngine():
             json_response = response.json()
             if json_response["numberOfProducts"] > 0:
                 for product in json_response["foundProductDetails"]:
-                    counter = counter + 1
                     if counter == 3:
                         break
-                    Recommendation.objects.create(
-                        Name=product["productTitle"], Image=product["imageUrlList"][0] if product["imageUrlList"] else "", Url="https://www.amazon.com/dp/" + product["asin"], Price=product["price"])
+                    _name = product["productTitle"] if product["productTitle"] else None
+                    _image = product["imageUrlList"][0] if product["imageUrlList"] else None
+                    _url = "https://www.amazon.com/dp/" + \
+                        product["asin"] if product["asin"] else None
+                    _price = float(str(product["price"]).strip(
+                        '$') if product["price"] else 0.0)
+
+                    if _name and _image and _url:
+                        counter = counter + 1
+                        Recommendation.objects.create(
+                            Name=_name, Image=_image, Url=_url, Price=_price)
+                    else:
+                        counter = counter - 1
             elif half == 0:
                 self.get_recommendations(1)
                 self.get_recommendations(2)
