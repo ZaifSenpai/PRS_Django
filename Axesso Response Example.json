@@ -3,641 +3,931 @@
     "foundProductDetails": [
         {
             "addon": false,
-            "answeredQuestions": 0,
-            "asin": "154509957X",
-            "countReview": 173,
-            "features": [],
-            "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Renaada Williams (Author) › Visit Amazon's Renaada Williams Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Renaada Williams (Author)",
-            "pantry": false,
-            "price": 0,
-            "priceSaving": null,
-            "priceShippingInformation": null,
-            "prime": true,
-            "productDescription": null,
-            "productDetails": [
-                {
-                    "name": "Paperback:",
-                    "value": "128 pages"
-                },
-                {
-                    "name": "Publisher:",
-                    "value": "CreateSpace Independent Publishing Platform; 1 edition (April 9, 2017)"
-                },
-                {
-                    "name": "Language:",
-                    "value": "English"
-                },
-                {
-                    "name": "ISBN-10:",
-                    "value": "154509957X"
-                },
-                {
-                    "name": "ISBN-13:",
-                    "value": "978-1545099575"
-                },
-                {
-                    "name": "Product Dimensions:",
-                    "value": "5.1 x 0.3 x 7.8 inches"
-                },
-                {
-                    "name": "Shipping Weight:",
-                    "value": "2.4 ounces (View shipping rates and policies)"
-                },
-                {
-                    "name": "Average Customer Review:",
-                    "value": "4.7 out of 5 stars 173 customer reviews"
-                },
-                {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#30,073 in Books (See Top 100 in Books) #811 in Literature #31 in African American Poetry #64 in Love Poems"
-                }
+            "answeredQuestions": 89,
+            "asin": "B07GKD7DND",
+            "countReview": 94,
+            "features": [
+                "Powered by NVIDIA Turing with 1890 MegaHertz Boost Clock (OC Mode) featuring overclocked 8 GigaBytes GDDR6 256 bit memory and 2944 CUDA cores",
+                "Supports up to 4 monitors with Display Port 1. 4, HDMI 2. 0 and a VR headset via USB Type C ports",
+                "Auto Extreme and Max Contact Technology deliver premium quality and reliability with aerospace grade Super Alloy Power II components while maximizing heat sink contact",
+                "ASUS Aura Sync RGB lighting features a nearly endless spectrum of colors with the ability to synchronize effects across an ever expanding ecosystem of AURA Sync enabled products",
+                "GPU Tweak II makes monitoring performance and streaming in real time easier than ever, and includes additional software like Game Booster, X Split Game caster, WT Fast and Quantum Cloud",
+                "Triple Axial Tech 0db Fans increase airflow through the heat sink and boasts IP5X dust resistance"
             ],
-            "productRating": "4.7 out of 5 stars",
-            "productTitle": "becoming.",
-            "responseMessage": "Product successfully found!",
-            "responseStatus": "PRODUCT_FOUND_RESPONSE",
-            "retailPrice": 0,
-            "sizeSelection": [],
-            "soldBy": "Amazon",
-            "warehouseAvailability": "In Stock."
-        },
-        {
-            "addon": false,
-            "answeredQuestions": 0,
-            "asin": "1981101780",
-            "countReview": 169,
-            "features": [],
-            "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Edgar Holmes (Author) › Visit Amazon's Edgar Holmes Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Edgar Holmes (Author)",
-            "pantry": false,
-            "price": 13.85,
-            "priceSaving": null,
-            "priceShippingInformation": null,
-            "prime": true,
-            "productDescription": null,
-            "productDetails": [
-                {
-                    "name": "Paperback:",
-                    "value": "112 pages"
-                },
-                {
-                    "name": "Publisher:",
-                    "value": "CreateSpace Independent Publishing Platform (November 23, 2017)"
-                },
-                {
-                    "name": "Language:",
-                    "value": "English"
-                },
-                {
-                    "name": "ISBN-10:",
-                    "value": "1981101780"
-                },
-                {
-                    "name": "ISBN-13:",
-                    "value": "978-1981101788"
-                },
-                {
-                    "name": "Product Dimensions:",
-                    "value": "5 x 0.3 x 8 inches"
-                },
-                {
-                    "name": "Shipping Weight:",
-                    "value": "3.2 ounces (View shipping rates and policies)"
-                },
-                {
-                    "name": "Average Customer Review:",
-                    "value": "4.4 out of 5 stars 169 customer reviews"
-                },
-                {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#18,081 in Books (See Top 100 in Books) #86 in American Poetry (Books) #41 in Love Poems"
-                }
+            "fulfilledBy": "Fateka USA",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/919sJ6VQtBL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71D4OGY640L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71aiVwzi47L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71eVSY3tqtL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71gfOJumI5L._SL1500_.jpg"
             ],
-            "productRating": "4.4 out of 5 stars",
-            "productTitle": "Her Favorite Color Was Yellow",
-            "responseMessage": "Product successfully found!",
-            "responseStatus": "PRODUCT_FOUND_RESPONSE",
-            "retailPrice": 0,
-            "sizeSelection": [],
-            "soldBy": "Amazon",
-            "warehouseAvailability": "In Stock."
-        },
-        {
-            "addon": false,
-            "answeredQuestions": 0,
-            "asin": "057846991X",
-            "countReview": 34,
-            "features": [],
-            "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by C Churchill (Author) › Visit Amazon's C Churchill Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central C Churchill (Author)",
+            "manufacturer": "ASUS",
             "pantry": false,
-            "price": 0,
+            "price": 799.99,
             "priceSaving": null,
-            "priceShippingInformation": null,
-            "prime": true,
-            "productDescription": "This collection of poetry is themed in the night. All things we may experience that keep us from sleeping. Insomnia, longing and depression can cause many to feel alone in their darkness. This journey of night themed poems is a bit on the darker side but it is meant to inspire the reader. No one should ever feel alone in their suffering.  ",
+            "priceShippingInformation": "& FREE Shipping",
+            "prime": false,
+            "productDescription": "ASUS ROG STRIX RTX 2080 O8G delivers legendary ROG power and performance with Turing Architecture from NVIDIA. Supporting up to 4 monitors plus a VR-Ready headset, each card features a reinforced frame, triple Axial-Tech fans with Max Contact technology for increased cooling, and Aura Sync RGB for customizing your lighting.",
             "productDetails": [
                 {
-                    "name": "Paperback:",
-                    "value": "123 pages"
+                    "name": "Memory Speed",
+                    "value": "1442 MHz"
                 },
                 {
-                    "name": "Publisher:",
-                    "value": "Cheryl Churchill (March 7, 2019)"
+                    "name": "Graphics Coprocessor",
+                    "value": "NVIDIA GeForce RTX 2080"
                 },
                 {
-                    "name": "Language:",
-                    "value": "English"
+                    "name": "Chipset Brand",
+                    "value": "nvidia"
                 },
                 {
-                    "name": "ISBN-10:",
-                    "value": "057846991X"
+                    "name": "Graphics Card Ram Size",
+                    "value": "8 GB"
                 },
                 {
-                    "name": "ISBN-13:",
-                    "value": "978-0578469911"
+                    "name": "Brand Name",
+                    "value": "ASUS"
                 },
                 {
-                    "name": "Product Dimensions:",
-                    "value": "5 x 0.3 x 8 inches"
+                    "name": "Item model number",
+                    "value": "ROG-STRIX-RTX2080-O8G-GAMING"
                 },
                 {
-                    "name": "Shipping Weight:",
-                    "value": "5 ounces (View shipping rates and policies)"
+                    "name": "Item Weight",
+                    "value": "1.44 pounds"
                 },
                 {
-                    "name": "Average Customer Review:",
-                    "value": "5.0 out of 5 stars 34 customer reviews"
+                    "name": "Product Dimensions",
+                    "value": "11.8 x 5.1 x 2.1 inches"
                 },
                 {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#14,492 in Books (See Top 100 in Books) #4 in Haiku & Japanese Poetry #3 in Poetry About Places (Books) #5 in Native American Poetry (Books)"
-                }
-            ],
-            "productRating": "5.0 out of 5 stars",
-            "productTitle": "Petals of the Moon: A Poetry Collection",
-            "responseMessage": "Product successfully found!",
-            "responseStatus": "PRODUCT_FOUND_RESPONSE",
-            "retailPrice": 0,
-            "sizeSelection": [],
-            "soldBy": "Amazon",
-            "warehouseAvailability": "In Stock."
-        },
-        {
-            "addon": false,
-            "answeredQuestions": 0,
-            "asin": "1449489753",
-            "countReview": 343,
-            "features": [],
-            "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Courtney Peppernell (Author) › Visit Amazon's Courtney Peppernell Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Courtney Peppernell (Author)",
-            "pantry": false,
-            "price": 8.49,
-            "priceSaving": null,
-            "priceShippingInformation": null,
-            "prime": true,
-            "productDescription": "Courtney Peppernell is an LGBT author from Sydney, Australia. In October 2016 she released the bestselling poetry collection Pillow Thoughts. Courtney has been writing her whole life and currently writes young adult novels and poetry collections. In February 2017 she released her second novel, Keeping Long Island. In August 2017 she published Pillow Thoughts and The Road Between. In August 2018, Courtney published Pillow Thoughts II: Healing The Heart. Courtney is working on a two new poetry collections and two new novels. When Courtney isn't writing she enjoys exploring, listening to music, drinking coffee, and hanging out with her two dogs, Hero & Dakota, and her cat, Bailey.",
-            "productDetails": [
-                {
-                    "name": "Paperback:",
-                    "value": "272 pages"
+                    "name": "Item Dimensions L x W x H",
+                    "value": "11.8 x 5.13 x 2.13 inches"
                 },
                 {
-                    "name": "Publisher:",
-                    "value": "Andrews McMeel Publishing (August 29, 2017)"
+                    "name": "ASIN",
+                    "value": "B07GKD7DND"
                 },
                 {
-                    "name": "Language:",
-                    "value": "English"
+                    "name": "Customer Reviews",
+                    "value": "4.5 out of 5 stars 94 customer reviews 4.5 out of 5 stars"
                 },
                 {
-                    "name": "ISBN-10:",
-                    "value": "1449489753"
+                    "name": "Best Sellers Rank",
+                    "value": "#97 in Computer Graphics Cards"
                 },
                 {
-                    "name": "ISBN-13:",
-                    "value": "978-1449489755"
+                    "name": "Shipping Weight",
+                    "value": "4.59 pounds (View shipping rates and policies)"
                 },
                 {
-                    "name": "Product Dimensions:",
-                    "value": "5 x 0.7 x 8 inches"
-                },
-                {
-                    "name": "Shipping Weight:",
-                    "value": "9.6 ounces (View shipping rates and policies)"
-                },
-                {
-                    "name": "Average Customer Review:",
-                    "value": "4.4 out of 5 stars 343 customer reviews"
-                },
-                {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#1,486 in Books (See Top 100 in Books) #1 in Australia & Oceania Poetry #1 in Gay & Lesbian Poetry #4 in Love Poems"
-                }
-            ],
-            "productRating": "4.4 out of 5 stars",
-            "productTitle": "Pillow Thoughts",
-            "responseMessage": "Product successfully found!",
-            "responseStatus": "PRODUCT_FOUND_RESPONSE",
-            "retailPrice": 0,
-            "sizeSelection": [],
-            "soldBy": "Amazon",
-            "warehouseAvailability": "In Stock."
-        },
-        {
-            "addon": false,
-            "answeredQuestions": 0,
-            "asin": "1449486797",
-            "countReview": 1236,
-            "features": [],
-            "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Rupi Kaur (Author) › Visit Amazon's Rupi Kaur Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Rupi Kaur (Author)",
-            "pantry": false,
-            "price": 10.2,
-            "priceSaving": null,
-            "priceShippingInformation": null,
-            "prime": true,
-            "productDescription": "An Amazon Best Book of October 2017: Kaur deftly sidesteps and then punts the stereotypical sophomore slump of bestselling authors, offering a subtle yet powerful volume of poetry to her readers who have clamored for more since the debut of Milk & Honey. Split into five movements—wilting, falling, rooting, rising, blooming—Kaur’s poems glide up from the depths of heartbreak and hurt to embrace the strength and joy that can flower on the other side of hardship. Kaur workshops many of her poems through live readings, and the dedication to her craft vibrates through every phrase. Those who pressed Milk & Honey into the hands of their friends will exult in The Sun and Her Flowers, and Kaur’s expanded wisdom and scope should reel in new readers who will find much that resonates. —Adrian Liang, The Amazon Book Review \"Rupi Kaur is Kicking Down the Doors of Publishing” (The New York Times) \"At age 24, Rupi Kaur has been called the voice of her generation.\" (USA Today) “Rupi Kaur sits atop a new wave in poetry.” (The Wall Street Journal) “Perhaps the best-known poet in the English-speaking world at this point” (Bustle) \"Rupi Kaur reinvents poetry ... (she) is undeniably equipped with the poet’s ability to articulate emotions that readers struggle to make sense of.” (The Economist) “Outselling Homer Ten to One” (New York Magazine) \"The Poet Who Touched a Nerve\" (The Times (London)) “there’s no denying that Rupi Kaur is currently one of the most — if not the most — popular poets in America …” (Boston Globe) \"Rupi Kaur is a rock star.\" (The Kansas City Star)",
-            "productDetails": [
-                {
-                    "name": "Paperback:",
-                    "value": "256 pages"
-                },
-                {
-                    "name": "Publisher:",
-                    "value": "Andrews McMeel Publishing; First Edition edition (October 3, 2017)"
-                },
-                {
-                    "name": "Language:",
-                    "value": "English"
-                },
-                {
-                    "name": "ISBN-10:",
-                    "value": "1449486797"
-                },
-                {
-                    "name": "ISBN-13:",
-                    "value": "978-1449486792"
-                },
-                {
-                    "name": "Product Dimensions:",
-                    "value": "5 x 0.7 x 7.8 inches"
-                },
-                {
-                    "name": "Shipping Weight:",
-                    "value": "12 ounces (View shipping rates and policies)"
-                },
-                {
-                    "name": "Average Customer Review:",
-                    "value": "4.6 out of 5 stars 1,236 customer reviews"
-                },
-                {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#839 in Books (See Top 100 in Books) #1 in Death, Grief & Loss Poetry (Books) #1 in Family Poetry (Books) #1 in Canadian Poetry"
-                }
-            ],
-            "productRating": "4.6 out of 5 stars",
-            "productTitle": "The Sun and Her Flowers",
-            "responseMessage": "Product successfully found!",
-            "responseStatus": "PRODUCT_FOUND_RESPONSE",
-            "retailPrice": 0,
-            "sizeSelection": [],
-            "soldBy": "Amazon",
-            "warehouseAvailability": "In Stock."
-        },
-        {
-            "addon": false,
-            "answeredQuestions": 0,
-            "asin": "1979772304",
-            "countReview": 667,
-            "features": [],
-            "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by r.h. Sin (Author) › Visit Amazon's r.h. Sin Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central r.h. Sin (Author)",
-            "pantry": false,
-            "price": 6,
-            "priceSaving": null,
-            "priceShippingInformation": null,
-            "prime": true,
-            "productDescription": null,
-            "productDetails": [
-                {
-                    "name": "Paperback:",
-                    "value": "72 pages"
-                },
-                {
-                    "name": "Publisher:",
-                    "value": "CreateSpace Independent Publishing Platform (November 19, 2017)"
-                },
-                {
-                    "name": "Language:",
-                    "value": "English"
-                },
-                {
-                    "name": "ISBN-10:",
-                    "value": "1979772304"
-                },
-                {
-                    "name": "ISBN-13:",
-                    "value": "978-1979772303"
-                },
-                {
-                    "name": "Product Dimensions:",
-                    "value": "5 x 0.2 x 8 inches"
-                },
-                {
-                    "name": "Shipping Weight:",
-                    "value": "3.2 ounces (View shipping rates and policies)"
-                },
-                {
-                    "name": "Average Customer Review:",
-                    "value": "4.5 out of 5 stars 667 customer reviews"
-                },
-                {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#4,771 in Books (See Top 100 in Books) #4 in African American Poetry #37 in Poetry Themes & Styles (Books)"
+                    "name": "Date First Available",
+                    "value": "August 19, 2018"
                 }
             ],
             "productRating": "4.5 out of 5 stars",
-            "productTitle": "I hope this reaches her in time",
+            "productTitle": "ASUS GeForce RTX 2080 O8G ROG STRIX OC Edition GDDR6 HDMI DP 1.4 Type-C graphics card (ROG-STRIX-RTX2080-O8G-GAMING)",
             "responseMessage": "Product successfully found!",
             "responseStatus": "PRODUCT_FOUND_RESPONSE",
             "retailPrice": 0,
             "sizeSelection": [],
-            "soldBy": "Amazon",
-            "warehouseAvailability": "In Stock."
+            "soldBy": "Fateka USA",
+            "warehouseAvailability": "Only 7 left in stock - order soon."
         },
         {
             "addon": false,
-            "answeredQuestions": 0,
-            "asin": "161243763X",
-            "countReview": 209,
-            "features": [],
+            "answeredQuestions": 4,
+            "asin": "B07KW9GD4F",
+            "countReview": 8,
+            "features": [
+                "This Certified Refurbished product is tested and certified to look and work like new. The refurbishing process includes functionality testing, basic cleaning, inspection, and repackaging. The product ships with all relevant accessories, a minimum 90-day warranty, and may arrive in a generic box. Only select sellers who maintain a high performance bar may offer Certified Refurbished products on Amazon.com",
+                "New Pascal Architecture",
+                "8 GB 256-bit GDDR5X",
+                "Virtual Reality Ready",
+                "4K Gaming"
+            ],
             "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Jhené Aiko Efuru Chilombo (Author) › Visit Amazon's Jhen&eacute; Aiko Efuru Chilombo Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Jhené Aiko Efuru Chilombo (Author)",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/8182Z6C3bYL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91mgD4eGa-L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/813nEeWAR2L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81NsVkfteWL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/916Fy2oxgmL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/716IU4OwrTL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81wB3MTGBML._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81a99m3aOZL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91E3wYqpWAL._SL1500_.jpg"
+            ],
+            "manufacturer": "Amazon Renewed",
             "pantry": false,
-            "price": 8.66,
+            "price": 499.99,
             "priceSaving": null,
-            "priceShippingInformation": null,
+            "priceShippingInformation": "& FREE Shipping. Details",
             "prime": true,
-            "productDescription": "Jhené Aiko Efuru Chilombo was born on March 16, 1988 in Los Angeles, California. Jhené began writing poetry at 6 years old. At 13, she signed to a major record label and began her career as a recording artist. Today, she is a mother of one, a three-time Grammy nominated singer/songwriter and a poet. 2Fish is Jhené’s first published book.",
+            "productDescription": "ZOTAC GEFORCE GTX GTX 1080 AMP GRAPHICS CARD Get ready to change the playing field with the ZOTAC GeForce GTX 1080 AMP Edition. Powered by the new NVIDIA Pascal architecture and fitted with ZOTAC technologies, this GPU is the most advanced gaming GPU ever created. With industry leading performance, immersive VR and innovative gaming technologies, the ZOTAC GeForce GTX 1080 AMP Edition provide a whole new way to game. ",
             "productDetails": [
                 {
-                    "name": "Hardcover:",
-                    "value": "144 pages"
+                    "name": "Product Dimensions",
+                    "value": "11.8 x 5.8 x 2 inches"
                 },
                 {
-                    "name": "Publisher:",
-                    "value": "Ulysses Press; Later Printing edition (December 19, 2017)"
+                    "name": "Item Weight",
+                    "value": "2.48 pounds"
                 },
                 {
-                    "name": "Language:",
-                    "value": "English"
+                    "name": "Shipping Weight",
+                    "value": "2.48 pounds (View shipping rates and policies)"
                 },
                 {
-                    "name": "ISBN-10:",
-                    "value": "161243763X"
+                    "name": "Manufacturer",
+                    "value": "Zotac"
                 },
                 {
-                    "name": "ISBN-13:",
-                    "value": "978-1612437637"
+                    "name": "ASIN",
+                    "value": "B07KW9GD4F"
                 },
                 {
-                    "name": "Product Dimensions:",
-                    "value": "4.5 x 0.5 x 6.5 inches"
+                    "name": "Customer Reviews",
+                    "value": "4.3 out of 5 stars 8 customer reviews 4.3 out of 5 stars"
                 },
                 {
-                    "name": "Shipping Weight:",
-                    "value": "6.4 ounces (View shipping rates and policies)"
+                    "name": "Best Sellers Rank",
+                    "value": "#205 in Computer Graphics Cards"
                 },
                 {
-                    "name": "Average Customer Review:",
-                    "value": "4.7 out of 5 stars 209 customer reviews"
-                },
-                {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#6,651 in Books (See Top 100 in Books) #7 in Poetry by Women #2 in Asian American Poetry #14 in Love Poems"
+                    "name": "Date first listed on Amazon",
+                    "value": "November 26, 2018"
                 }
             ],
-            "productRating": "4.7 out of 5 stars",
-            "productTitle": "2Fish: (a poetry book)",
+            "productRating": "4.3 out of 5 stars",
+            "productTitle": "ZOTAC GeForce GTX 1080 AMP! Edition, ZT-P10800C-10P, 8GB GDDR5X IceStorm Cooling, Metal Wraparound Carbon ExoArmor exterior, Ultra-wide 100mm Fans Gaming Graphics Card (Renewed)",
             "responseMessage": "Product successfully found!",
             "responseStatus": "PRODUCT_FOUND_RESPONSE",
             "retailPrice": 0,
             "sizeSelection": [],
-            "soldBy": "Amazon",
+            "soldBy": "Kaleidoscope Electronics",
             "warehouseAvailability": "In Stock."
         },
         {
             "addon": false,
             "answeredQuestions": 0,
-            "asin": "0692097724",
-            "countReview": 45,
-            "features": [],
+            "asin": "B07MFN49TK",
+            "countReview": 8,
+            "features": [
+                "Real Base Clock: 1556 MHz/Real Boost Clock: 1670 MHz; Memory Detail: 11264MB GDDR5X. Redesigned cooling with L-shaped contact fins to improve contact surface area for better heat dissipation",
+                "EVGA iCX Cooling - Delivering industry-leading cooling performance to your Graphics Card. Vulkan API",
+                "Requirements-Minimum of a 600 Watt power supply. An available 6-pin PCI-E power connector and an available 8 pin PCI-E power connector.Total Power Draw- 250 Watts",
+                "New vented heatsink fin design and pin fins for optimized airflow. An available 6-pin PCI-E power connector and an available 8 pin PCI-E power connector. Windows 10 32/64bit ,Windows 8 32/64bit, Windows 7 32/64bit",
+                "DX12 OSD Support with EVGA Precision XOC. Stream extreme GeForce GTX PC gaming experiences to portable device like NVIDIA SHIELD with super-smooth, low-latency performance"
+            ],
             "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Ellen Allbrey Everett (Author)",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/71PH1DRS-JL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61O0A4VcTQL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71VFFpryX4L._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61sBz%2BBwBEL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61nwqt0gZ4L._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61CrubcBRML._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/6190vxsULyL._SL1200_.jpg"
+            ],
+            "manufacturer": "Amazon Renewed",
             "pantry": false,
-            "price": 0,
+            "price": 799.99,
             "priceSaving": null,
-            "priceShippingInformation": null,
+            "priceShippingInformation": "& FREE Shipping. Details",
             "prime": true,
             "productDescription": null,
             "productDetails": [
                 {
-                    "name": "Paperback:",
-                    "value": "202 pages"
+                    "name": "Product Dimensions",
+                    "value": "12.8 x 2.8 x 9.5 inches"
                 },
                 {
-                    "name": "Publisher:",
-                    "value": "Ellen Everett; 1 edition (April 5, 2018)"
+                    "name": "Item Weight",
+                    "value": "2.85 pounds"
                 },
                 {
-                    "name": "Language:",
-                    "value": "English"
+                    "name": "Shipping Weight",
+                    "value": "2.85 pounds (View shipping rates and policies)"
                 },
                 {
-                    "name": "ISBN-10:",
-                    "value": "0692097724"
+                    "name": "Manufacturer",
+                    "value": "EVGA"
                 },
                 {
-                    "name": "ISBN-13:",
-                    "value": "978-0692097724"
+                    "name": "ASIN",
+                    "value": "B07MFN49TK"
                 },
                 {
-                    "name": "Product Dimensions:",
-                    "value": "5.1 x 0.5 x 7.8 inches"
+                    "name": "California residents",
+                    "value": "Click here for Proposition 65 warning"
                 },
                 {
-                    "name": "Shipping Weight:",
-                    "value": "8.2 ounces (View shipping rates and policies)"
+                    "name": "Item model number",
+                    "value": "11G-P4-6393-KR-cr"
                 },
                 {
-                    "name": "Average Customer Review:",
-                    "value": "4.9 out of 5 stars 45 customer reviews"
+                    "name": "Customer Reviews",
+                    "value": "4.5 out of 5 stars 8 customer reviews 4.5 out of 5 stars"
                 },
                 {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#27,891 in Books (See Top 100 in Books) #21 in Death, Grief & Loss Poetry (Books) #14 in Nature Poetry (Books) #33 in Inspirational & Religious Poetry (Books)"
+                    "name": "Best Sellers Rank",
+                    "value": "#502 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Date first listed on Amazon",
+                    "value": "January 7, 2019"
                 }
             ],
-            "productRating": "4.9 out of 5 stars",
-            "productTitle": "I Saw You As A Flower: A Poetry Collection",
+            "productRating": "4.5 out of 5 stars",
+            "productTitle": "EVGA GeForce GTX 1080 Ti SC Black Edition Gaming, 11GB GDDR5X, iCX Cooler & LED, Optimized Airflow Design, Interlaced Pin Fin Graphics Card 11G-P4-6393-KR (Renewed)",
             "responseMessage": "Product successfully found!",
             "responseStatus": "PRODUCT_FOUND_RESPONSE",
             "retailPrice": 0,
             "sizeSelection": [],
-            "soldBy": "Amazon",
-            "warehouseAvailability": "In Stock."
+            "soldBy": "KW-TECH CR",
+            "warehouseAvailability": "Only 6 left in stock - order soon."
         },
         {
             "addon": false,
-            "answeredQuestions": 0,
-            "asin": "0071419306",
-            "countReview": 146,
-            "features": [],
-            "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Roy J. Cook (Compiler)",
+            "answeredQuestions": 377,
+            "asin": "B06Y11DFZ3",
+            "countReview": 843,
+            "features": [
+                "Real Base Clock: 1556 MHz/Real Boost Clock: 1670 MHz; Memory Detail: 11264MB GDDR5X. Redesigned cooling with L-shaped contact fins to improve contact surface area for better heat dissipation",
+                "EVGA iCX Cooling - Delivering industry-leading cooling performance to your Graphics Card. Vulkan API",
+                "Requirements-Minimum of a 600 Watt power supply. An available 6-pin PCI-E power connector and an available 8 pin PCI-E power connector.Total Power Draw- 250 Watts",
+                "New vented heatsink fin design and pin fins for optimized airflow. An available 6-pin PCI-E power connector and an available 8 pin PCI-E power connector. Windows 10 32/64bit ,Windows 8 32/64bit, Windows 7 32/64bit",
+                "DX12 OSD Support with EVGA Precision XOC. Stream extreme GeForce GTX PC gaming experiences to portable device like NVIDIA SHIELD with super-smooth, low-latency performance"
+            ],
+            "fulfilledBy": null,
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/71WBvOZbLJL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/615hfXzzy1L._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71cruv2rfGL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61H3Q1riJAL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71ycgx0qh6L._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71asVqIjtRL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61lE%2BUrFkJL._SL1200_.jpg"
+            ],
+            "manufacturer": "EVGA",
             "pantry": false,
             "price": 0,
             "priceSaving": null,
             "priceShippingInformation": null,
-            "prime": true,
-            "productDescription": "An inspirational collection of masterpieces from the world's greatest poets Poetry has the power to give us strength, inspiration, and hope, helping us to make meaning from our hectic lives and giving us the opportunity to appreciate new ways of thinking about universal themes and observations. Whether you are a newcomer to poetry or a lifelong lover of verse, in this indispensable compilation you will find the greatest poems of all time, powerful words that have delighted and inspired generations of readers--words that are sure to inspire you today. In this portable volume, William Wordsworth wanders \"lonely as a cloud\" to gaze blissfully at a crowd of daffodils, Percy Bysshe Shelley pronounces his profound \"Ode to the West Wind,\" Edgar Allan Poe quotes the raven, \"Nevermore,\" and William Shakespeare is consumed by love in \"That Time of Year.\" Replete with timeless masterpieces, this keepsake includes such American classics as \"Paul Revere's Ride\" and \"Hiawatha's Childhood\" by Henry Wadsworth Longfellow; \"Concord Hymn\" by Ralph Waldo Emerson, and \"God Save the Flag\" by Oliver Wendell Holmes. For nature lovers (and city dwellers longing for an escape), there is Shelley's blithe skylark, Robert Frost's mending wall, and Joyce Kilmer's unforgettably lovely trees. In addition to the poems, the collection also contains a special selection of popular prose, including the Gettysburg Address, the Ten Commandments, the Declaration of Independence, and the full text of Patrick Henry's famous \"give me liberty or give me death\" speech. The pleasures of poetry are many, and the masterpieces in this volume are sure to enrich and encourage. So take a break from the rush and noise of life, find a quiet spot, and lose yourself between these pages. Poetry has long been called upon to enrich and inspire our lives, especially in moments of stress. If you are one of those souls in these noise-tired times who longs for a little peace and quiet, a stolen moment of contemplation, this volume is sure to offer you respite. Whether you are on the subway, in the grocery line, or on the elevator, this portable collection is your perfect companion. Whether you're an avid consumer or a newcomer to poetry, you're sure to discover verses to cherish among these unforgettable works that continue to inspire the lives of so many. The Authors: Alexander Anderson • Elizabeth Barret Browning • Robert Browning • Robert Burns • John Burroughs • Lord Byron • Edmund Vance Cooke • Emily Dickinson • George Eliot • Ralph Waldo Emerson • Eugene Field • Robert Frost • Thomas Gray • Patrick Henry • Oliver Wendell Holmes • John James Ingalls • King John • John Keats • Rudyard Kipling • Abraham Lincoln • Henry Wadsworth Longfellow • Edna St. Vincent Millay • John Milton • Alfred Noyes • Edgar Allan Poe • Carl Sandburg • Sir Walter Scott • William Shakespeare • Percy Bysshe Shelley • Frank L. Stanton • Robert Louis Stevenson • Alfred Tennyson • Walt Whitman • John Greenleaf Whittier • William Wordsworth  McGraw-Hill authors represent the leading experts in their fields and are dedicated to improving the lives, careers, and interests of readers worldwide",
+            "prime": false,
+            "productDescription": "The EVGA GeForce GTX 1080 Ti uses NVIDIA's new flagship gaming GPU, based on the NVIDIA Pascal architecture. The latest addition to the ultimate gaming platform, this card is packed with extreme gaming horsepower, next-gen 11 Gbps GDDR5X memory and a massive 11 GB frame buffer. This card also features EVGA iCX Cooling which brings improved cooling efficiency with a new diecast form fitted baseplate/backplate, an interlaced pin fin design that improves cooling efficiency, and new fin technology that provides improved airflow for a cooler running card.",
             "productDetails": [
                 {
-                    "name": "Hardcover:",
-                    "value": "185 pages"
+                    "name": "Memory Speed",
+                    "value": "11000 MHz"
                 },
                 {
-                    "name": "Publisher:",
-                    "value": "McGraw-Hill Education (May 30, 2003)"
+                    "name": "Graphics Coprocessor",
+                    "value": "NVIDIA GeForce GTX 1080 Ti"
                 },
                 {
-                    "name": "Language:",
-                    "value": "English"
+                    "name": "Card Description",
+                    "value": "GeForce GTX 1080 Ti"
                 },
                 {
-                    "name": "ISBN-10:",
-                    "value": "9780071419307"
+                    "name": "Graphics Card Ram Size",
+                    "value": "11 GB"
                 },
                 {
-                    "name": "ISBN-13:",
-                    "value": "978-0071419307"
+                    "name": "Brand Name",
+                    "value": "EVGA"
                 },
                 {
-                    "name": "ASIN:",
-                    "value": "0071419306"
+                    "name": "Series",
+                    "value": "FBA_11G-P4-6393-KR"
                 },
                 {
-                    "name": "Product Dimensions:",
-                    "value": "4.9 x 0.7 x 8.4 inches"
+                    "name": "California residents",
+                    "value": "Click here for Proposition 65 warning"
                 },
                 {
-                    "name": "Shipping Weight:",
-                    "value": "9.6 ounces (View shipping rates and policies)"
+                    "name": "Item model number",
+                    "value": "11G-P4-6393-KR"
                 },
                 {
-                    "name": "Average Customer Review:",
-                    "value": "4.7 out of 5 stars 146 customer reviews"
+                    "name": "Item Weight",
+                    "value": "1 pounds"
                 },
                 {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#26,242 in Books (See Top 100 in Books) #702 in Literature #29 in Poetry Anthologies (Books)"
+                    "name": "Product Dimensions",
+                    "value": "12.8 x 2.8 x 9.5 inches"
+                },
+                {
+                    "name": "Item Dimensions L x W x H",
+                    "value": "12.81 x 2.81 x 9.5 inches"
+                },
+                {
+                    "name": "ASIN",
+                    "value": "B06Y11DFZ3"
+                },
+                {
+                    "name": "Customer Reviews",
+                    "value": "4.5 out of 5 stars 843 customer reviews 4.5 out of 5 stars"
+                },
+                {
+                    "name": "Best Sellers Rank",
+                    "value": "#417 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Shipping Weight",
+                    "value": "2.8 pounds"
+                },
+                {
+                    "name": "Date First Available",
+                    "value": "April 3, 2017"
                 }
             ],
-            "productRating": "4.7 out of 5 stars",
-            "productTitle": "101 Famous Poems",
+            "productRating": "4.5 out of 5 stars",
+            "productTitle": "EVGA GeForce GTX 1080 Ti SC Black Edition Gaming, 11GB GDDR5X, iCX Cooler & LED, Optimized Airflow Design, Interlaced Pin Fin Graphics Card 11G-P4-6393-KR",
             "responseMessage": "Product successfully found!",
             "responseStatus": "PRODUCT_FOUND_RESPONSE",
             "retailPrice": 0,
             "sizeSelection": [],
-            "soldBy": "Amazon",
+            "soldBy": null,
+            "warehouseAvailability": "Available from these sellers."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 1000,
+            "asin": "B01M4KGTNI",
+            "countReview": 1199,
+            "features": [
+                "New NVIDIA pascal architecture delivers improved performance and power efficiency",
+                "Classic and modern games at 1080P @ 60 FPS",
+                "Fast, smooth, power-efficient gaming experiences. Support up to 8K display at 60Hz",
+                "Support for the latest DirectX 12 Features",
+                "Delivers all the latest GeForce gaming Features. Card size-H=40 L=229 W=118 mm.Recommended PSU:300W",
+                "Form Factor: ATX"
+            ],
+            "fulfilledBy": "IDYIASHOP",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/91wSunpXgpL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81fxbDQCeSL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81TMOt6A9eL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81XwdtW3EaL._SL1500_.jpg"
+            ],
+            "manufacturer": "Gigabyte",
+            "pantry": false,
+            "price": 169.99,
+            "priceSaving": "You Save: $30.00 (15%)",
+            "priceShippingInformation": "& FREE Shipping",
+            "prime": false,
+            "productDescription": "Powered by GeForce GTX 1050 Ti and integrated with 4GB GDDR5 128bit memory. Featuring custom-designed 90 mm fan cooler",
+            "productDetails": [
+                {
+                    "name": "Max Screen Resolution",
+                    "value": "8k"
+                },
+                {
+                    "name": "Memory Speed",
+                    "value": "7008 MHz"
+                },
+                {
+                    "name": "Graphics Coprocessor",
+                    "value": "GeForce"
+                },
+                {
+                    "name": "Chipset Brand",
+                    "value": "GTX 1050"
+                },
+                {
+                    "name": "Card Description",
+                    "value": "GeForce GTX 1050 Ti"
+                },
+                {
+                    "name": "Graphics Card Ram Size",
+                    "value": "4 GB"
+                },
+                {
+                    "name": "Brand Name",
+                    "value": "Gigabyte"
+                },
+                {
+                    "name": "California residents",
+                    "value": "Click here for Proposition 65 warning"
+                },
+                {
+                    "name": "Item model number",
+                    "value": "GV-N105TD5-4GD"
+                },
+                {
+                    "name": "Item Weight",
+                    "value": "1.1 pounds"
+                },
+                {
+                    "name": "Product Dimensions",
+                    "value": "6.8 x 4.5 x 1.2 inches"
+                },
+                {
+                    "name": "Item Dimensions L x W x H",
+                    "value": "6.8 x 4.5 x 1.2 inches"
+                },
+                {
+                    "name": "Processor Count",
+                    "value": "1"
+                },
+                {
+                    "name": "ASIN",
+                    "value": "B01M4KGTNI"
+                },
+                {
+                    "name": "Customer Reviews",
+                    "value": "4.4 out of 5 stars 1,199 customer reviews 4.4 out of 5 stars"
+                },
+                {
+                    "name": "Best Sellers Rank",
+                    "value": "#201 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Shipping Weight",
+                    "value": "1.25 pounds (View shipping rates and policies)"
+                },
+                {
+                    "name": "Date First Available",
+                    "value": "October 19, 2016"
+                }
+            ],
+            "productRating": "4.4 out of 5 stars",
+            "productTitle": "Gigabyte Geforce GTX 1050 Ti 4GB GDDR5 128 Bit PCI-E Graphic Card (GV-N105TD5-4GD)",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 199.99,
+            "sizeSelection": [],
+            "soldBy": "IDYIASHOP",
             "warehouseAvailability": "In Stock."
         },
         {
             "addon": false,
-            "answeredQuestions": 0,
-            "asin": "144947425X",
-            "countReview": 6603,
-            "features": [],
+            "answeredQuestions": 37,
+            "asin": "B07HX7FQYD",
+            "countReview": 34,
+            "features": [
+                "Powered by NVIDIA Turing with 1740 MHz Boost Clock (OC Mode), 1920 CUDA cores and 8GB GDDR6 memory",
+                "Supports up-to 3 monitors with DisplayPort 1. 4, HDMI 2. 0 and a VR headset via USB Type C ports",
+                "8mm dual-ball Bearing fans and cutting-edge shroud provide superior cooing and Airflow, All while being quiet, efficient, and having 2x the lifespan compared to traditional Sleeve bearing fans.",
+                "144 Hour validation program ensures the best stability of your GPU through rigorous and extensive testing with heavy workloads.",
+                "Gpu Tweak II makes monitoring performance and streaming in real time Easier than ever, and includes additional software like game Booster, x split Game caster, wt Fast and Quantum cloud"
+            ],
             "fulfilledBy": "Amazon",
-            "imageUrlList": null,
-            "manufacturer": "by Rupi Kaur (Author) › Visit Amazon's Rupi Kaur Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Rupi Kaur (Author)",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/91jMtp5HBrL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81OE9KoNx1L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81roN-9qVGL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81JGhenBkAL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81H1akHVsML._SL1500_.jpg"
+            ],
+            "manufacturer": "ASUS",
             "pantry": false,
-            "price": 6.25,
+            "price": 799.99,
             "priceSaving": null,
-            "priceShippingInformation": null,
+            "priceShippingInformation": "& FREE Shipping. Details",
             "prime": true,
-            "productDescription": "\"At age 24, Rupi Kaur has been called the voice of her generation.\" (USA Today) “Rupi Kaur has vision beyond her years … Her work is simply but powerfully expressed, and viscerally captures both universal human experience and the particular struggles of a young woman today.\" (Huffington Post) Rupi’s poetry is simple, relatable, gorgeous, and grounded in the everyday experiences of young women. (Rachel Grate, Hello Giggles) \"A must-have poetry collection about healing and hope.\" (Bustle) Rupi Kaur's first book, Milk and Honey is the poetry collection every woman needs on her nightstand or coffee table. Accompanied by her own sketches, the beautifully honest poems read like the everyday, collective experiences of today's modern woman. (Erin Spencer, Huffington Post) “Discussing themes of love, loss, and healing, Milk and Honey finds a way to connect to every reader. “ (Business Insider) \"Milk and Honey brings any tormented reader to an enlightened state of self-reflection that may have taken years to accomplish alone.” (Elite Daily) The honest words of Rupi Kaur leave you continuously wanting more as she writes with eloquence and poise. Her work will send you to past thoughts and realities you might not have known you had. (Sienna Brown, WildSpice Magazine) Rupi Kaur’s writing echoes of artistry and wisdom which is seen in the work of those that have been writing for years. (Samira Sawlani, Media Diversified) Rupi Kaur is a poet, artist, and performer. Her works have taken the literary world by storm. Her second book, the sun and her flowers—an instant global bestseller, is an artistic sibling to her debut, milk and honey—one of America's bestselling books of 2017. “i am the product of all the ancestors getting together and deciding these stories need to be told.” Rupi sees her work as an articulation of this vision. She’s an eternal artist. At the age of five, her mother handed her a paintbrush and said, “draw your heart out.” At seventeen, she happened upon a local open mic night where she performed her first spoken word poem. She fell in love with performance poetry that night. Rupi continued performing across Canada, while building a community of readers and poetry enthusiasts. While studying at the University of Waterloo, Rupi wrote, illustrated, and self-published her first collection, milk and honey. In the years since, milk and honey has become an international phenomenon. It’s sold over 3 million copies, been translated into more than 35 languages, and landed as a #1 New York Times bestseller—where it has spent more than 100 consecutive weeks. “i am the first woman in my lineage with freedom of choice. to craft her future whichever way i choose. say what is on my mind when i want to. without the whip of the lash. there are hundreds of firsts i am thankful for.” Rupi explores a variety of themes in her work ranging from love, loss, trauma, healing, femininity, migration, and revolution. She’s a storyteller and chronicler—a repository of community and history. There’s a simplicity and nuance to her work that has found a home in the hearts of millions. This magic is captured in her stage performances, which are magnetic musical interactions of poetry, art, and theater. Rupi's long-awaited second collection, the sun and her flowers, was published in 2017 and debuted as a #1 global bestseller. Within the first three months it sold a million copies and was embraced by readers worldwide. She’s a Forbes 30 under 30, an editor of the 2016 Mays Literary Anthology of New Writing from the Universities of Oxford and Cambridge, and one of BBC’s 100 Women. Rupi hopes to continue her artistic exploration through art and poetry—searching for ways to understand and articulate. i stand on the sacrifices of a million women before me thinking what can i do to make this mountain taller so the women after me can see farther - legacy",
+            "productDescription": "Experience Turing Triple Threat with ASUS TURBO RTX 2080 8G. The ASUS TURBO RTX 2080 8G features a new cutting edge cooling shroud for multi card configurations and small chassis, Dual-Ball Bearing Fan with IP5X Dust resistance, and easy overclocking and monitoring with the intuitive GPU Tweak II software.",
             "productDetails": [
                 {
-                    "name": "Series:",
-                    "value": "Milk and Honey by Rupi Kaur"
+                    "name": "Memory Speed",
+                    "value": "1515 MHz"
                 },
                 {
-                    "name": "Paperback:",
-                    "value": "208 pages"
+                    "name": "Graphics Coprocessor",
+                    "value": "NVIDIA GeForce RTX 2080"
                 },
                 {
-                    "name": "Publisher:",
-                    "value": "Andrews McMeel Publishing; Reprint edition (October 6, 2015)"
+                    "name": "Chipset Brand",
+                    "value": "nvidia"
                 },
                 {
-                    "name": "Language:",
-                    "value": "English"
+                    "name": "Graphics Card Ram Size",
+                    "value": "8 GB"
                 },
                 {
-                    "name": "ISBN-10:",
-                    "value": "9781449474256"
+                    "name": "Brand Name",
+                    "value": "ASUS"
                 },
                 {
-                    "name": "ISBN-13:",
-                    "value": "978-1449474256"
+                    "name": "Item model number",
+                    "value": "TURBO-RTX2080-8G"
                 },
                 {
-                    "name": "ASIN:",
-                    "value": "144947425X"
+                    "name": "Item Weight",
+                    "value": "2.8 pounds"
                 },
                 {
-                    "name": "Product Dimensions:",
-                    "value": "5 x 0.5 x 7.7 inches"
+                    "name": "Product Dimensions",
+                    "value": "10.6 x 1.6 x 4.5 inches"
                 },
                 {
-                    "name": "Shipping Weight:",
-                    "value": "7.2 ounces (View shipping rates and policies)"
+                    "name": "Item Dimensions L x W x H",
+                    "value": "10.59 x 1.65 x 4.49 inches"
                 },
                 {
-                    "name": "Average Customer Review:",
-                    "value": "4.6 out of 5 stars 6,603 customer reviews"
+                    "name": "ASIN",
+                    "value": "B07HX7FQYD"
                 },
                 {
-                    "name": "Amazon Best Sellers Rank:",
-                    "value": "#328 in Books (See Top 100 in Books) #2 in American Poetry (Books) #1 in Love Poems #1 in Inspirational & Religious Poetry (Books)"
+                    "name": "Customer Reviews",
+                    "value": "4.1 out of 5 stars 34 customer reviews 4.1 out of 5 stars"
+                },
+                {
+                    "name": "Best Sellers Rank",
+                    "value": "#533 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Shipping Weight",
+                    "value": "2.8 pounds (View shipping rates and policies)"
+                },
+                {
+                    "name": "Date First Available",
+                    "value": "October 1, 2018"
                 }
             ],
-            "productRating": "4.6 out of 5 stars",
-            "productTitle": "Milk and Honey",
+            "productRating": "4.1 out of 5 stars",
+            "productTitle": "ASUS GeForce RTX 2080 8G Turbo Edition GDDR6 HDMI DP 1.4 USB Type-C Graphics Card (TURBO-RTX2080-8G)",
             "responseMessage": "Product successfully found!",
             "responseStatus": "PRODUCT_FOUND_RESPONSE",
             "retailPrice": 0,
             "sizeSelection": [],
-            "soldBy": "Amazon",
+            "soldBy": "KW-TECH",
+            "warehouseAvailability": "Only 2 left in stock - order soon."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 309,
+            "asin": "B01HHBQBLG",
+            "countReview": 559,
+            "features": [
+                "Chipset: NVIDIA GeForce GTX 1080",
+                "Twin frozr VI thermal design",
+                "Torx 2.0 fan design; RGB LED control",
+                "Virtual reality ready. Card dimension 10.9 x 5.5 x 1.6 inches",
+                "NOTE: Kindly refer the User Guide before use."
+            ],
+            "fulfilledBy": "IT Group Ltd",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/81UEqFeR1SL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81gzRZUwZbL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81Tn6DRgO2L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81-CGMdAlyL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71qJyieVkML._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71%2BTb6X3ggL._SL1500_.jpg"
+            ],
+            "manufacturer": "MSI",
+            "pantry": false,
+            "price": 789,
+            "priceSaving": null,
+            "priceShippingInformation": "& FREE Shipping",
+            "prime": false,
+            "productDescription": "MSI GTX 1080 GAMING 8G twin Frozr VI thermal design raises the bar of graphics card Air cooling. Torx fan 2.0 is the enhanced version of the patented torx fan technology which generates 22% more Air pressure for better cooling performance while further reducing noise levels. The new fans are equipped with double ball bearings to ensure lasting smooth and silent operation. Connected to the huge heat sink are 8mm copper heat pipes with a squared shape at the bottom for optimal heat transfer from the solid nickel-plated copper baseplate combined with premium thermal compound x to keep the Pascal powerhouse cool.",
+            "productDetails": [
+                {
+                    "name": "Memory Speed",
+                    "value": "1771 MHz"
+                },
+                {
+                    "name": "Graphics Coprocessor",
+                    "value": "NVIDIA GeForce GTX 1080"
+                },
+                {
+                    "name": "Chipset Brand",
+                    "value": "nvidia"
+                },
+                {
+                    "name": "Graphics Card Ram Size",
+                    "value": "8 GB"
+                },
+                {
+                    "name": "Brand Name",
+                    "value": "MSI"
+                },
+                {
+                    "name": "Series",
+                    "value": "GeForce GTX 1080 GAMING 8G"
+                },
+                {
+                    "name": "Item model number",
+                    "value": "GeForce GTX 1080 GAMING 8G"
+                },
+                {
+                    "name": "Item Weight",
+                    "value": "3.8 pounds"
+                },
+                {
+                    "name": "Product Dimensions",
+                    "value": "13.6 x 10.6 x 3.3 inches"
+                },
+                {
+                    "name": "Item Dimensions L x W x H",
+                    "value": "13.6 x 10.6 x 3.3 inches"
+                },
+                {
+                    "name": "ASIN",
+                    "value": "B01HHBQBLG"
+                },
+                {
+                    "name": "Customer Reviews",
+                    "value": "4.4 out of 5 stars 559 customer reviews 4.4 out of 5 stars"
+                },
+                {
+                    "name": "Best Sellers Rank",
+                    "value": "#560 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Shipping Weight",
+                    "value": "3.8 pounds (View shipping rates and policies)"
+                },
+                {
+                    "name": "Date First Available",
+                    "value": "June 23, 2016"
+                }
+            ],
+            "productRating": "4.4 out of 5 stars",
+            "productTitle": "MSI Gaming GeForce GTX 1080 8GB GDDR5X SLI DirectX 12 VR Ready Graphics Card (GTX 1080 GAMING 8G)",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "IT Group Ltd",
+            "warehouseAvailability": "Only 1 left in stock - order soon."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 6,
+            "asin": "B07JZHGJXB",
+            "countReview": 8,
+            "features": [
+                "1733 MHz boost Clock with super alloy power II delivery",
+                "Manufactured with auto-extreme automation technology for consistent, reliable performance",
+                "Blower-cooled design with reference-sized Form Factor ideal for SLI configurations",
+                "GPU TWEAK II software enables robust monitoring and adjustment capability"
+            ],
+            "fulfilledBy": null,
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/61FvxbCy8JL._SL1000_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81RfMXBlgGL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71MJ%2BQ0fvuL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71ObwNidfZL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71IlJ-8v-6L._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71UExBz1-hL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71ibGRVcOkL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81wvi4zsNdL._SL1500_.jpg"
+            ],
+            "manufacturer": "Amazon Renewed",
+            "pantry": false,
+            "price": 0,
+            "priceSaving": null,
+            "priceShippingInformation": null,
+            "prime": false,
+            "productDescription": "256 bit Bus Width - SLI - Fan Cooler - OpenGL 4.5 - 2 x DisplayPort - 2 x HDMI - 1 x Total Number of DVI (1 x DVI-D)",
+            "productDetails": [
+                {
+                    "name": "Product Dimensions",
+                    "value": "15 x 3 x 9 inches"
+                },
+                {
+                    "name": "Item Weight",
+                    "value": "1.98 pounds"
+                },
+                {
+                    "name": "Shipping Weight",
+                    "value": "2.75 pounds"
+                },
+                {
+                    "name": "Manufacturer",
+                    "value": "ASUS Computer International Direct"
+                },
+                {
+                    "name": "ASIN",
+                    "value": "B07JZHGJXB"
+                },
+                {
+                    "name": "Customer Reviews",
+                    "value": "4.7 out of 5 stars 8 customer reviews 4.7 out of 5 stars"
+                },
+                {
+                    "name": "Best Sellers Rank",
+                    "value": "#763 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Date first listed on Amazon",
+                    "value": "October 29, 2018"
+                }
+            ],
+            "productRating": "4.7 out of 5 stars",
+            "productTitle": "ASUS GeForce GTX 1080 8GB Turbo Graphic Card TURBO-GTX1080-8G (Renewed)",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": null,
+            "warehouseAvailability": "Available from these sellers."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 0,
+            "asin": "B07K8SDFQV",
+            "countReview": 4,
+            "features": [
+                "This Certified Refurbished product is tested and certified to look and work like new. The refurbishing process includes functionality testing, basic cleaning, inspection, and repackaging. The product ships with all relevant accessories, a minimum 90-day warranty, and may arrive in a generic box. Only select sellers who maintain a high performance bar may offer Certified Refurbished products on Amazon.com",
+                "Real Base Clock: 1708 MHz / Real Boost Clock: 1847 MHz; Memory Detail: 8192MB GDDR5X",
+                "Run Longer, Play Longer with EVGA \"ACX 3.0\" Cooling",
+                "What you see is what you get! – No additional software required to achieve listed clock speeds",
+                "DX12 OSD Support with EVGA Precision XOC. Operating System Support: Windows 10 32/64bit,Windows 8 32/64bit, Windows 7 32/64bit"
+            ],
+            "fulfilledBy": "Amazon",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/71SSGblH4UL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/712enqkQyEL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51JJIJpdFQL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71xUEYJxvaL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71fkfIbnYLL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/617OyFptuiL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/619oe%2BBkNML._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61B1ik0N9jL._SL1200_.jpg"
+            ],
+            "manufacturer": "Amazon Renewed",
+            "pantry": false,
+            "price": 649.99,
+            "priceSaving": null,
+            "priceShippingInformation": "& FREE Shipping. Details",
+            "prime": true,
+            "productDescription": "The EVGA GeForce GTX 1080 featuring EVGA ACX 3.0 cooling has arrived. This new graphics card features NVIDIA's new \"Pascal\" graphics processor which is the most advanced gaming GPU ever created. This breakthrough GPU delivers industry-leading performance, innovative new gaming technologies, and immersive next-gen VR. These cards also feature EVGA ACX 3.0 cooling technology. EVGA ACX 3.0 once again brings new and exciting features to the award winning EVGA ACX cooling technology. SHP 2.0 gives increased heat pipes and copper contact area for cooler operation, and optimized fan curve for even quieter gaming. Of course, ACX 3.0 coolers also feature optimized swept fan blades, double ball bearings and an extreme low power motor, delivering more air flow with less power, unlocking additional power for the GPU. Select EVGA ACX 3.0 models will even feature a 10CM fan and RGB LED, allowing complete control over the color from EVGA PrecisionX OC.",
+            "productDetails": [
+                {
+                    "name": "Max Screen Resolution",
+                    "value": "7680 x 4320"
+                },
+                {
+                    "name": "Memory Speed",
+                    "value": "1708 MHz"
+                },
+                {
+                    "name": "Graphics Coprocessor",
+                    "value": "Nvidia GeForce"
+                },
+                {
+                    "name": "Card Description",
+                    "value": "GeForce GTX 1080"
+                },
+                {
+                    "name": "Graphics Card Ram Size",
+                    "value": "8 GB"
+                },
+                {
+                    "name": "Brand Name",
+                    "value": "EVGA"
+                },
+                {
+                    "name": "Item Weight",
+                    "value": "3.5 pounds"
+                },
+                {
+                    "name": "Product Dimensions",
+                    "value": "10.5 x 1.5 x 4.4 inches"
+                },
+                {
+                    "name": "Item Dimensions L x W x H",
+                    "value": "10.5 x 1.5 x 4.38 inches"
+                },
+                {
+                    "name": "ASIN",
+                    "value": "B07K8SDFQV"
+                },
+                {
+                    "name": "Customer Reviews",
+                    "value": "5.0 out of 5 stars 4 customer reviews 5.0 out of 5 stars"
+                },
+                {
+                    "name": "Best Sellers Rank",
+                    "value": "#222 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Shipping Weight",
+                    "value": "3.5 pounds (View shipping rates and policies)"
+                },
+                {
+                    "name": "Date First Available",
+                    "value": "November 7, 2018"
+                }
+            ],
+            "productRating": "5.0 out of 5 stars",
+            "productTitle": "EVGA GeForce GTX 1080 SC GAMING ACX 3.0, 8GB GDDR5X, LED, DX12 OSD Support (PXOC) Graphics Card 08G-P4-6183-KR (Renewed)",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "KW-TECH CR",
+            "warehouseAvailability": "In stock on September 3, 2019. Order it now."
+        },
+        {
+            "addon": false,
+            "answeredQuestions": 292,
+            "asin": "B07J9L4HC2",
+            "countReview": 371,
+            "features": [
+                "Real Boost Clock: 1620 MegaHertZ; memory Detail: 8192MB GDDR6. Operating System Support :Windows 10 64bit, Windows 7 64bit",
+                "Dual HDB fans and all new cooler offer higher performance cooling and much quieter acoustic noise",
+                "Built for EVGA Precision x1, EVGA all new tuning utility monitors your graphics card and gives you the power to overclock like a Pro",
+                "3 Year Warranty",
+                "Get grip game + EVGA vehicle skin w/ Purchase, redeemed at EVGA website, while supplies last"
+            ],
+            "fulfilledBy": "TheFactoryDepot",
+            "imageUrlList": [
+                "https://images-na.ssl-images-amazon.com/images/I/81Q0paq7%2BtL._SL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51yF9Qa0tHL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/718z2Pmwv8L._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71MsHsqilVL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71fCZszUn4L._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71wyv%2B0LO7L._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71JAOOTTDGL._SL1200_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51w57D%2BeACL._SL1200_.jpg"
+            ],
+            "manufacturer": "EVGA",
+            "pantry": false,
+            "price": 573.86,
+            "priceSaving": null,
+            "priceShippingInformation": "& FREE Shipping",
+            "prime": false,
+            "productDescription": "The EVGA GeForce RTX 20-Series Graphics Cards are powered by the all-new NVIDIA Turing architecture to give you incredible new levels of gaming realism, speed, power efficiency, and immersion. With the EVGA GeForce RTX 20-Series gaming cards you get the best gaming experience with next generation graphics performance, ice cold cooling, and advanced overclocking features with the all new EVGA Precision X1software. The new NVIDIA GeForce RTX GPUs have reinvented graphics and set a new bar for performance. Powered by the new NVIDIA Turing GPU architecture and the revolutionary NVIDIA RTX platform, the new graphics cards bring together real-time ray tracing, artificial intelligence, and programmable shading. This is not only a whole new way to experience games - this is the ultimate PC gaming experience.",
+            "productDetails": [
+                {
+                    "name": "Memory Speed",
+                    "value": "14000 MHz"
+                },
+                {
+                    "name": "Graphics Coprocessor",
+                    "value": "NVIDIA RTX 2070"
+                },
+                {
+                    "name": "Chipset Brand",
+                    "value": "nvidia"
+                },
+                {
+                    "name": "Graphics Card Ram Size",
+                    "value": "8 GB"
+                },
+                {
+                    "name": "Brand Name",
+                    "value": "EVGA"
+                },
+                {
+                    "name": "Item model number",
+                    "value": "RTX 2070 Black"
+                },
+                {
+                    "name": "Item Weight",
+                    "value": "2.2 pounds"
+                },
+                {
+                    "name": "Product Dimensions",
+                    "value": "10.6 x 1.5 x 4.7 inches"
+                },
+                {
+                    "name": "Item Dimensions L x W x H",
+                    "value": "10.6 x 1.5 x 4.66 inches"
+                },
+                {
+                    "name": "ASIN",
+                    "value": "B07J9L4HC2"
+                },
+                {
+                    "name": "Customer Reviews",
+                    "value": "4.2 out of 5 stars 371 customer reviews 4.2 out of 5 stars"
+                },
+                {
+                    "name": "Best Sellers Rank",
+                    "value": "#94 in Computer Graphics Cards"
+                },
+                {
+                    "name": "Shipping Weight",
+                    "value": "2.4 pounds (View shipping rates and policies)"
+                },
+                {
+                    "name": "Date First Available",
+                    "value": "October 17, 2018"
+                }
+            ],
+            "productRating": "4.2 out of 5 stars",
+            "productTitle": "EVGA GeForce RTX 2070 Black GAMING,8GB GDDR6, Dual HDB Fans Graphics Card 08G-P4-1071-KR",
+            "responseMessage": "Product successfully found!",
+            "responseStatus": "PRODUCT_FOUND_RESPONSE",
+            "retailPrice": 0,
+            "sizeSelection": [],
+            "soldBy": "TheFactoryDepot",
             "warehouseAvailability": "In Stock."
         }
     ],
-    "keyword": "poetry book",
+    "keyword": "nvidia 1080",
     "numberOfProducts": 10,
     "responseMessage": "Product successfully found!",
     "responseStatus": "PRODUCT_FOUND_RESPONSE",
-    "resultCount": 563,
+    "resultCount": 138,
     "sortStrategy": "relevanceblender"
 }

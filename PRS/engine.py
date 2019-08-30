@@ -1,7 +1,9 @@
 import re
 import time
+import nltk
 import gensim
 import requests
+import traceback
 
 from datetime import datetime
 from api.models import Sms, Recommendation, Topics
@@ -11,7 +13,9 @@ from textblob.sentiments import NaiveBayesAnalyzer
 from sklearn.datasets import fetch_20newsgroups
 from nltk.stem import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.corpus import wordnet as wn
 
+# wordnet_dict = {x.name().split('.', 1)[0] for x in wn.all_synsets('n')}
 
 def lemmatize_stemming(text):
     stemmer = PorterStemmer()
@@ -25,15 +29,21 @@ def tokenize_lemmatize(text):
             result.append(lemmatize_stemming(token))
     return result
 
+def find_word_in_list(l, w):
+    for lw in l:
+        if w.lower() == lw.lower():
+            return True
+    return False
 
 def start_service():
     while True:
         print('Starting')
-        # engine = RecommenderEngine()
-        # engine.process_next_chunk()
-        # engine.get_recommendations()
+        engine = RecommenderEngine()
+        engine.process_next_chunk()
+        engine.get_recommendations()
         # engine.clear_text_message()
         print('Done')
+        break
         time.sleep(3)
 
 
@@ -52,8 +62,9 @@ class RecommenderEngine():
             self.update_db(userId, topics, smsids)
         except Exception as e:
             print('Exception details:', e)
+            traceback.print_exc()
 
-    def get_recommendations(self):
+    def get_recommendations(self, half = 0):
         topic = Topics.objects.first()
         if not topic:
             return
@@ -63,12 +74,26 @@ class RecommenderEngine():
 
         topics = [x.Title for x in topics_set]
 
+        if half > 0:
+            if half == 1:
+                topics = topics[:int(len(topics)/2)]
+            elif half == 2:
+                topics = topics[int(len(topics)/2):]
+            else:
+                return
+
         response = requests.get("https://axesso-axesso-amazon-data-service-v1.p.rapidapi.com/amz/amazon-search-by-keyword?domainCode=com&page=1&keyword={0}".format(
             '+'.join(topics)), headers={"X-RapidAPI-Host": "axesso-axesso-amazon-data-service-v1.p.rapidapi.com", "X-RapidAPI-Key": "c10e853eb8msh471d1730b3b5c9ep19ed71jsnb9ba58f02d4b"})
 
         if response.status_code == 200:
             json_response = response.json()
-            # @TODO
+            if json_response["numberOfProducts"] > 0:
+                for product in json_response["foundProductDetails"]:
+                    Recommendation.objects.create(
+                        Name=product["productTitle"], Image=product["imageUrlList"][0] if product["imageUrlList"] else "", Url="https://www.amazon.com/dp/" + product["asin"], Price='$' + str(product["price"]))
+            elif half == 0:
+                self.get_recommendations(1)
+                self.get_recommendations(2)
 
             [x.delete() for x in topics_set]  # Remove records
 
@@ -113,18 +138,33 @@ class RecommenderEngine():
                 return
             processed = [tokens]
             dictionary = gensim.corpora.Dictionary(processed)
+            print('3', dictionary)
             if not dictionary:
                 return
             bow_corpus = [dictionary.doc2bow(doc) for doc in processed]
+            print('4', bow_corpus)
             if not (bow_corpus):
                 return
             lda_model = gensim.models.LdaMulticore(bow_corpus,
                                                    num_topics=1,
                                                    id2word=dictionary,
-                                                   passes=10,
-                                                   workers=2)
+                                                   passes=5,
+                                                   workers=1)
+            print('5', lda_model)
             if lda_model.show_topics() and lda_model.show_topics()[0] and lda_model.show_topics()[0][1]:
-                return re.findall('"(.*?)"', lda_model.show_topics()[0][1])
+                topics = re.findall('"(.*?)"', lda_model.show_topics()[0][1])
+                tokens = nltk.word_tokenize(text)
+                pos_tokens = nltk.pos_tag(tokens)
+                result = set()
+                print('6', topics)
+                print('7', pos_tokens)
+                for pos_token in pos_tokens:
+                    if pos_token and pos_token[0] and pos_token[0] and find_word_in_list(topics, pos_token[0]):
+                        if pos_token[1] == 'NNP' or pos_token[1] == 'NNS' or pos_token[1] == 'NN' or pos_token[1] == 'NNPS':
+                            result.add(pos_token[0].upper())
+                
+                print('8', result)
+                return list(result)
 
     def update_db(self, userId, topics, smsids):
         sms = Sms.objects.filter(pk__in=smsids)
@@ -133,10 +173,9 @@ class RecommenderEngine():
             s.save()
 
         dtn = int(time.time())
-        for topic in topics:
-            Topics.objects.create(Title=topic, ProcessedDatetime=dtn)
-
-        return
+        if topics:
+            for topic in topics:
+                Topics.objects.create(Title=topic, ProcessedDatetime=dtn)
 
 
 sample_text_advice = """
