@@ -15,8 +15,6 @@ from nltk.stem import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
 
-# wordnet_dict = {x.name().split('.', 1)[0] for x in wn.all_synsets('n')}
-
 def lemmatize_stemming(text):
     stemmer = PorterStemmer()
     return stemmer.stem(WordNetLemmatizer().lemmatize(text, pos='v'))
