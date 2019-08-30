@@ -88,12 +88,12 @@ class RecommenderEngine():
             if json_response["numberOfProducts"] > 0:
                 for product in json_response["foundProductDetails"]:
                     Recommendation.objects.create(
-                        Name=product["productTitle"], Image=product["imageUrlList"][0] if product["imageUrlList"] else "", Url="https://www.amazon.com/dp/" + product["asin"], Price='$' + str(product["price"]))
+                        Name=product["productTitle"], Image=product["imageUrlList"][0] if product["imageUrlList"] else "", Url="https://www.amazon.com/dp/" + product["asin"], Price=product["price"])
             elif half == 0:
                 self.get_recommendations(1)
                 self.get_recommendations(2)
-
-            [x.delete() for x in topics_set]  # Remove records
+            if half == 0:
+                [x.delete() for x in topics_set]  # Remove records
 
     def clear_text_message(self):
         # Remove those text messages which are processed
@@ -136,11 +136,11 @@ class RecommenderEngine():
                 return
             processed = [tokens]
             dictionary = gensim.corpora.Dictionary(processed)
-            print('3', dictionary)
+            # print('3', dictionary)
             if not dictionary:
                 return
             bow_corpus = [dictionary.doc2bow(doc) for doc in processed]
-            print('4', bow_corpus)
+            # print('4', bow_corpus)
             if not (bow_corpus):
                 return
             lda_model = gensim.models.LdaMulticore(bow_corpus,
@@ -148,20 +148,20 @@ class RecommenderEngine():
                                                    id2word=dictionary,
                                                    passes=5,
                                                    workers=1)
-            print('5', lda_model)
+            # print('5', lda_model)
             if lda_model.show_topics() and lda_model.show_topics()[0] and lda_model.show_topics()[0][1]:
                 topics = re.findall('"(.*?)"', lda_model.show_topics()[0][1])
                 tokens = nltk.word_tokenize(text)
                 pos_tokens = nltk.pos_tag(tokens)
                 result = set()
-                print('6', topics)
-                print('7', pos_tokens)
+                # print('6', topics)
+                # print('7', pos_tokens)
                 for pos_token in pos_tokens:
                     if pos_token and pos_token[0] and pos_token[0] and find_word_in_list(topics, pos_token[0]):
                         if pos_token[1] == 'NNP' or pos_token[1] == 'NNS' or pos_token[1] == 'NN' or pos_token[1] == 'NNPS':
                             result.add(pos_token[0].upper())
                 
-                print('8', result)
+                # print('8', result)
                 return list(result)
 
     def update_db(self, userId, topics, smsids):
