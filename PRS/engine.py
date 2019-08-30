@@ -15,6 +15,7 @@ from nltk.stem import PorterStemmer
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
 
+
 def lemmatize_stemming(text):
     stemmer = PorterStemmer()
     return stemmer.stem(WordNetLemmatizer().lemmatize(text, pos='v'))
@@ -27,11 +28,13 @@ def tokenize_lemmatize(text):
             result.append(lemmatize_stemming(token))
     return result
 
+
 def find_word_in_list(l, w):
     for lw in l:
         if w.lower() == lw.lower():
             return True
     return False
+
 
 def start_service():
     while True:
@@ -40,8 +43,6 @@ def start_service():
         engine.process_next_chunk()
         engine.get_recommendations()
         # engine.clear_text_message()
-        print('Done')
-        break
         time.sleep(3)
 
 
@@ -62,7 +63,8 @@ class RecommenderEngine():
             print('Exception details:', e)
             traceback.print_exc()
 
-    def get_recommendations(self, half = 0):
+    def get_recommendations(self, half=0):
+        counter = 0
         topic = Topics.objects.first()
         if not topic:
             return
@@ -87,6 +89,9 @@ class RecommenderEngine():
             json_response = response.json()
             if json_response["numberOfProducts"] > 0:
                 for product in json_response["foundProductDetails"]:
+                    counter = counter + 1
+                    if counter == 3:
+                        break
                     Recommendation.objects.create(
                         Name=product["productTitle"], Image=product["imageUrlList"][0] if product["imageUrlList"] else "", Url="https://www.amazon.com/dp/" + product["asin"], Price=product["price"])
             elif half == 0:
@@ -160,7 +165,7 @@ class RecommenderEngine():
                     if pos_token and pos_token[0] and pos_token[0] and find_word_in_list(topics, pos_token[0]):
                         if pos_token[1] == 'NNP' or pos_token[1] == 'NNS' or pos_token[1] == 'NN' or pos_token[1] == 'NNPS':
                             result.add(pos_token[0].upper())
-                
+
                 # print('8', result)
                 return list(result)
 
